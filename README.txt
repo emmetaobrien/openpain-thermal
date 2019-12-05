@@ -1,1 +1,0 @@
-.git/annex/objects/6P/90/URL-s2231--ftp&c%%openpain.org%thermal%README.txt/URL-s2231--ftp&c%%openpain.org%thermal%README.txt
