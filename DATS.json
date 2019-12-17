@@ -15,7 +15,21 @@
         { 
             "value": "fMRI"
         }
-    ],
+    ], 
+    "distributions": [
+	        {
+			"formats": [
+				"NIfTI"
+            		],
+			"size" : 2.76,
+		        "unit" : {
+            			"value": "GB"
+		        },
+			"access": {
+				"landingPage": "https://www.openpain.org/"
+			}
+		}
+	],
     "version": "1.0",
     "privacy": "Open Access",
     "isAbout": [
@@ -46,7 +60,31 @@
                     "value": "91"
                 }
             ]
-        }
+        },
+	{
+			"category": "contact",
+			"values": [
+				{
+					"value": "Jennifer Tremblay-Mercier, Research Co-ordinator, jennifer.tremblay-mercier@douglas.mcgill.ca, 514-761-6131 #3329"
+				}
+			]
+		},
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "385"
+				}
+			]
+		},
+		{
+			"category": "logo",
+			"values": [
+				{
+					"value": "https://avatars3.githubusercontent.com/u/22078250?s=200&v=4"
+				}
+			]
+		}
     ]
 }
 
