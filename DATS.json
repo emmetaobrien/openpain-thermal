@@ -1,21 +1,22 @@
 {
     "title": "OpenPain thermal",
-    "description": "This dataset contains BOLD and T1 data from chronic back pain (CBP) patients and healthy controls.  BOLD data was collected while subjects were subjected to painful thermal stimuli and provided real-time feedback in the form of continuous ratings of  perceived pain intensity.",
-    
+    "description": "This dataset contains BOLD and T1 data from chronic back pain (CBP) patients and healthy controls.  BOLD data was collected while subjects were subjected to painful thermal stimuli and provided real-time feedback in the form of continuous ratings of perceived pain intensity."
     "creators": [
         {
             "@type": "Organization",
             "name": "OpenPain"
         }
     ],
-    "types": [
-        { 
-            "value": "MRI"
+	"types": [
+        {
+            "value": "MRI",
+            "valueIRI": "http://uri.interlex.org/ilx_0779748"
         },
-        { 
-            "value": "fMRI"
+        {
+            "value": "fMRI",
+            "valueIRI": "http://uri.interlex.org/ilx_0506130"
         }
-    ], 
+    ],
     "distributions": [
 	        {
 			"formats": [
